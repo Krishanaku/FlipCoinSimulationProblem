@@ -31,4 +31,4 @@ do
     fi
     
 done
-echo "The Heads count is $heads and Tails Count is $tails"
+echo "The Heads count no is $heads and Tails Count no is $tails"
